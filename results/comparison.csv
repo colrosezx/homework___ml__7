@@ -1,0 +1,5 @@
+backend,batch_size,image_size,device,avg_latency_sec
+PyTorch,1,128,cuda,0.004236
+ONNX,1,128,cuda,0.004548
+PyTorch,1,128,cuda,0.003501
+ONNX,1,128,cuda,0.004527
